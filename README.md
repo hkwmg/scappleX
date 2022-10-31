@@ -16,8 +16,18 @@
 
 
 下面简单介绍一下使用方法。
+![主要功能](https://user-images.githubusercontent.com/85704232/198933471-6c612acb-0781-4816-9c74-2f11fdcb79fe.png)
 
-![主要功能](https://user-images.githubusercontent.com/85704232/133603066-9c380a72-418f-4b69-8998-cccec669138d.png)
+v1.1 新特性
+标记文本
+![marktext](https://user-images.githubusercontent.com/85704232/198933769-5244764e-d54d-48f8-bde8-57ea2e43d006.png)
+LaTeX和sympy公式编辑
+![sympyex](https://user-images.githubusercontent.com/85704232/198933843-cba32a5e-a229-421a-863b-c0ec49a8d8c7.png)
+![sympyex2](https://user-images.githubusercontent.com/85704232/198933882-7aac9434-b938-490b-8751-6eccda92539f.png)
+Python脚本执行
+![python](https://user-images.githubusercontent.com/85704232/198933912-a25de67a-61ec-4e66-8683-9583913b875b.png)
+![python2](https://user-images.githubusercontent.com/85704232/198933932-e824bc6a-5e48-42b6-8fd8-cad43e4474d7.png)
+![python3](https://user-images.githubusercontent.com/85704232/198933949-6cb3a1c9-d48a-4773-bb95-38eba05717b2.png)
 
 
 1. 自由文本示例
