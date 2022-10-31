@@ -12,23 +12,27 @@
 
    一方面，使用更多的连线揭示出概念与概念之间的内在联系，另一方面，构造出更多的概念、关系去满足需要，并在这些概念与关系当中论证合理性。
 
-![ScappleX用途](https://user-images.githubusercontent.com/85704232/133603033-62af6e40-e675-4069-ac80-66d3cd269931.png)
+![ScappleX用途](https://user-images.githubusercontent.com/85704232/198933471-6c612acb-0781-4816-9c74-2f11fdcb79fe.png)
+<br>
+
+v1.1 新特性[更多](https://www.hkwmg.cn/release/v1_1_0/)<br>
+标记文本<br>
+<img src="https://user-images.githubusercontent.com/85704232/198933769-5244764e-d54d-48f8-bde8-57ea2e43d006.png" width="500"/>
+
+LaTeX和sympy公式编辑<br>
+<img src="https://user-images.githubusercontent.com/85704232/198933843-cba32a5e-a229-421a-863b-c0ec49a8d8c7.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/85704232/198933882-7aac9434-b938-490b-8751-6eccda92539f.png" width="500"/>
+
+Python脚本执行<br>
+<img src="https://user-images.githubusercontent.com/85704232/198933912-a25de67a-61ec-4e66-8683-9583913b875b.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/85704232/198933932-e824bc6a-5e48-42b6-8fd8-cad43e4474d7.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/85704232/198933949-6cb3a1c9-d48a-4773-bb95-38eba05717b2.png" width="500"/>
 
 
+<br><br><br>
 下面简单介绍一下使用方法。
-![主要功能](https://user-images.githubusercontent.com/85704232/198933471-6c612acb-0781-4816-9c74-2f11fdcb79fe.png)
 
-v1.1 新特性
-标记文本
-![marktext](https://user-images.githubusercontent.com/85704232/198933769-5244764e-d54d-48f8-bde8-57ea2e43d006.png)
-LaTeX和sympy公式编辑
-![sympyex](https://user-images.githubusercontent.com/85704232/198933843-cba32a5e-a229-421a-863b-c0ec49a8d8c7.png)
-![sympyex2](https://user-images.githubusercontent.com/85704232/198933882-7aac9434-b938-490b-8751-6eccda92539f.png)
-Python脚本执行
-![python](https://user-images.githubusercontent.com/85704232/198933912-a25de67a-61ec-4e66-8683-9583913b875b.png)
-![python2](https://user-images.githubusercontent.com/85704232/198933932-e824bc6a-5e48-42b6-8fd8-cad43e4474d7.png)
-![python3](https://user-images.githubusercontent.com/85704232/198933949-6cb3a1c9-d48a-4773-bb95-38eba05717b2.png)
-
+![主要功能](https://user-images.githubusercontent.com/85704232/133603066-9c380a72-418f-4b69-8998-cccec669138d.png)
 
 1. 自由文本示例
 
