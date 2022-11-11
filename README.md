@@ -15,6 +15,11 @@
 ![ScappleX用途](https://user-images.githubusercontent.com/85704232/198933471-6c612acb-0781-4816-9c74-2f11fdcb79fe.png)
 <br>
 
+
+https://user-images.githubusercontent.com/85704232/201273741-5cff0cae-d8eb-4f47-9246-a51bce66ce95.mp4
+
+
+
 v1.1 新特性[更多](https://www.hkwmg.cn/release/v1_1_0/)<br>
 标记文本<br>
 <img src="https://user-images.githubusercontent.com/85704232/198933769-5244764e-d54d-48f8-bde8-57ea2e43d006.png" width="500"/>
